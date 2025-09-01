@@ -12,5 +12,5 @@ export const environment = {
 };
 export const env = {
   production: false,
-  apiUrl: 'http://devmanager.runasp.net', // غيّريها حسب السيرفر بتاعك
+  apiUrl: 'https://api-proxy.ahmadtaher45.workers.dev', // غيّريها حسب السيرفر بتاعك
 };
